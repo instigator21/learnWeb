@@ -1,0 +1,13 @@
+C:\Repository\learnWeb\Stepik C#\Module 2 - Simple construction\Module2\bin\Debug\netcoreapp3.1\Module2.exe
+C:\Repository\learnWeb\Stepik C#\Module 2 - Simple construction\Module2\bin\Debug\netcoreapp3.1\Module2.deps.json
+C:\Repository\learnWeb\Stepik C#\Module 2 - Simple construction\Module2\bin\Debug\netcoreapp3.1\Module2.runtimeconfig.json
+C:\Repository\learnWeb\Stepik C#\Module 2 - Simple construction\Module2\bin\Debug\netcoreapp3.1\Module2.runtimeconfig.dev.json
+C:\Repository\learnWeb\Stepik C#\Module 2 - Simple construction\Module2\bin\Debug\netcoreapp3.1\Module2.dll
+C:\Repository\learnWeb\Stepik C#\Module 2 - Simple construction\Module2\bin\Debug\netcoreapp3.1\Module2.pdb
+C:\Repository\learnWeb\Stepik C#\Module 2 - Simple construction\Module2\obj\Debug\netcoreapp3.1\Module2.csprojAssemblyReference.cache
+C:\Repository\learnWeb\Stepik C#\Module 2 - Simple construction\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.CoreCompileInputs.cache
+C:\Repository\learnWeb\Stepik C#\Module 2 - Simple construction\Module2\obj\Debug\netcoreapp3.1\Module2.AssemblyInfoInputs.cache
+C:\Repository\learnWeb\Stepik C#\Module 2 - Simple construction\Module2\obj\Debug\netcoreapp3.1\Module2.AssemblyInfo.cs
+C:\Repository\learnWeb\Stepik C#\Module 2 - Simple construction\Module2\obj\Debug\netcoreapp3.1\Module2.dll
+C:\Repository\learnWeb\Stepik C#\Module 2 - Simple construction\Module2\obj\Debug\netcoreapp3.1\Module2.pdb
+C:\Repository\learnWeb\Stepik C#\Module 2 - Simple construction\Module2\obj\Debug\netcoreapp3.1\Module2.genruntimeconfig.cache
